@@ -1,0 +1,134 @@
+﻿  main.cpp
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(83,45): warning C4244:  'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(83,45): warning C4244:         with
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(83,45): warning C4244:         [
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(83,45): warning C4244:             T=float
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(83,45): warning C4244:         ]
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(83,63): warning C4244:  'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(83,63): warning C4244:         with
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(83,63): warning C4244:         [
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(83,63): warning C4244:             T=float
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(83,63): warning C4244:         ]
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(90,35): warning C4244:  'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(90,35): warning C4244:         with
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(90,35): warning C4244:         [
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(90,35): warning C4244:             T=float
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(90,35): warning C4244:         ]
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(90,53): warning C4244:  'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(90,53): warning C4244:         with
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(90,53): warning C4244:         [
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(90,53): warning C4244:             T=float
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(90,53): warning C4244:         ]
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(90,107): warning C4244:  'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(90,107): warning C4244:         with
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(90,107): warning C4244:         [
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(90,107): warning C4244:             T=float
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(90,107): warning C4244:         ]
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(90,125): warning C4244:  'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(90,125): warning C4244:         with
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(90,125): warning C4244:         [
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(90,125): warning C4244:             T=float
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(90,125): warning C4244:         ]
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(112,50): warning C4244:  'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(112,50): warning C4244:         with
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(112,50): warning C4244:         [
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(112,50): warning C4244:             T=float
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(112,50): warning C4244:         ]
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(112,67): warning C4244:  'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(112,67): warning C4244:         with
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(112,67): warning C4244:         [
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(112,67): warning C4244:             T=float
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(112,67): warning C4244:         ]
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(114,30): warning C4244:  'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(114,30): warning C4244:         with
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(114,30): warning C4244:         [
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(114,30): warning C4244:             T=float
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(114,30): warning C4244:         ]
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(114,47): warning C4244:  'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(114,47): warning C4244:         with
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(114,47): warning C4244:         [
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(114,47): warning C4244:             T=float
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\entity.h(114,47): warning C4244:         ]
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(16,50): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(16,50): warning C4244:         with
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(16,50): warning C4244:         [
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(16,50): warning C4244:             T=float
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(16,50): warning C4244:         ]
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(16,47): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(16,47): warning C4244:         with
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(16,47): warning C4244:         [
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(16,47): warning C4244:             T=float
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(16,47): warning C4244:         ]
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(21,49): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(21,49): warning C4244:         with
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(21,49): warning C4244:         [
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(21,49): warning C4244:             T=float
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(21,49): warning C4244:         ]
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(21,26): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(21,26): warning C4244:         with
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(21,26): warning C4244:         [
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(21,26): warning C4244:             T=float
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(21,26): warning C4244:         ]
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(26,52): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(26,52): warning C4244:         with
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(26,52): warning C4244:         [
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(26,52): warning C4244:             T=float
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(26,52): warning C4244:         ]
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(26,49): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(26,49): warning C4244:         with
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(26,49): warning C4244:         [
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(26,49): warning C4244:             T=float
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(26,49): warning C4244:         ]
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(33,49): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(33,49): warning C4244:         with
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(33,49): warning C4244:         [
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(33,49): warning C4244:             T=float
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(33,49): warning C4244:         ]
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(33,26): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(33,26): warning C4244:         with
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(33,26): warning C4244:         [
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(33,26): warning C4244:             T=float
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(33,26): warning C4244:         ]
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(34,27): warning C4244:  'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(34,27): warning C4244:         with
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(34,27): warning C4244:         [
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(34,27): warning C4244:             T=float
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(34,27): warning C4244:         ]
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(34,37): warning C4244:  'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(34,37): warning C4244:         with
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(34,37): warning C4244:         [
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(34,37): warning C4244:             T=float
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(34,37): warning C4244:         ]
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(43,51): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(43,51): warning C4244:         with
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(43,51): warning C4244:         [
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(43,51): warning C4244:             T=float
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(43,51): warning C4244:         ]
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(43,48): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(43,48): warning C4244:         with
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(43,48): warning C4244:         [
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(43,48): warning C4244:             T=float
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(43,48): warning C4244:         ]
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(49,49): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(49,49): warning C4244:         with
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(49,49): warning C4244:         [
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(49,49): warning C4244:             T=float
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(49,49): warning C4244:         ]
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(49,26): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(49,26): warning C4244:         with
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(49,26): warning C4244:         [
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(49,26): warning C4244:             T=float
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(49,26): warning C4244:         ]
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(51,27): warning C4244:  'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(51,27): warning C4244:         with
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(51,27): warning C4244:         [
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(51,27): warning C4244:             T=float
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(51,27): warning C4244:         ]
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(51,37): warning C4244:  'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(51,37): warning C4244:         with
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(51,37): warning C4244:         [
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(51,37): warning C4244:             T=float
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(51,37): warning C4244:         ]
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(76,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\orion\source\repos\EvolutionSim\EvolutionSim\main.cpp(101,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  EvolutionSim.vcxproj -> C:\Users\orion\source\repos\EvolutionSim\Debug\EvolutionSim.exe
